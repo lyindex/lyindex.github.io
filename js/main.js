@@ -10,7 +10,7 @@ const Colors = {
 
 const url = {
     HOME: 'www.liuyu.in',
-    BLOG: 'blog.liuyu.com',
+    BLOG: 'blog.liuyu.in',
     PAST: '#',
     // ABOUT: ''
 };
