@@ -11,7 +11,7 @@ const Colors = {
 const url = {
     HOME: 'www.liuyu.in',
     BLOG: 'blog.liuyu.in',
-    PAST: '#',
+    DEMO: 'demo.liuyu.in',
     // ABOUT: ''
 };
 
